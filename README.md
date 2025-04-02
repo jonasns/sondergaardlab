@@ -5,6 +5,6 @@
 
   # jonasns's Website
 
-  Visit **[jonasns.github.io/sondergaardlab](https://jonasns.github.io/sondergaardlab)** 🚀
+  Visit **[sondergaardlab.org](http://sondergaardlab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
