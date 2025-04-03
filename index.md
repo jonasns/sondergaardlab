@@ -1,9 +1,11 @@
 ---
 ---
 
-# jonasns's Website
+# Welcome to the Søndergaard Lab
 
-An engaging 1-3 sentence description of your lab.
+We study human immune system heterogeneity using systems immunology and computational approaches to understand disease variability.
+
+[Join Us](contact) to learn more
 
 {% include section.html %}
 
