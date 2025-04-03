@@ -1,1 +1,1 @@
-Sitemap: http://sondergaardlab.org/sitemap.xml
+Sitemap: https://sondergaardlab.org/sitemap.xml
